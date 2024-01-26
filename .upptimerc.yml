@@ -3,40 +3,41 @@ owner: 1Ronkkeli # Your GitHub organization or username, where this repository l
 repo: upptime # The name of this repository
 
 sites:
-  - name: Game-Panel
+  - name: Game-Panel | Central Management For Gamehosting |
     url: https://panel.ronkkeli.net
-  - name: Game-Panel | BETA
+  - name: Game-Panel | BETA | | Non Public |
     url: odyssey.panel.gg
     port: 80
     check: "tcp-ping"
-  - name: Customer Portal / Website
+  - name: ronkkeli.com | Main Website | Customer/Billing portal |
     url: https://www.ronkkeli.com
-  - name: Web-1 | SPANEL
+  - name: Web-1 | SPANEL | Main Webhosting |
     url: https://cloud-4b162c.managed-vps.net/hostpanel/login
-  - name: Game1
+  - name: Game1 | Minecraft + Other games |
     url: game1.ronkkeli.net
     port: 8080
     check: "tcp-ping"
-  - name: Game2
+  - name: Game2 | FiveM |
     url: game2.ronkkeli.net
     port: 8080
     check: "tcp-ping"
-  - name: Game3
+  - name: Game3 | FiveM |
     url: game3.ronkkeli.net
     port: 8080
     check: "tcp-ping"
-  - name: Game3
-    url: game3.ronkkeli.net
-    port: 8080
-    check: "tcp-ping"
-  - name: Game4 | Beta non public
+  - name: Game4 | Beta non public |
     url: 135.181.58.27
     port: 8080
     check: "tcp-ping"
-  - name: Database Cloud Infrastructure
+  - name: Database Cloud Infrastructure | panel.ronkkeli.net |
     url: phpmyadmin-gra3.hosting.ovh.net
     port: 80
     check: "tcp-ping"
+  - name: ronkkeli.net | Mail | Non Critical | Ticket Team Mails |
+    url: webmail.ronkkeli.net
+  - name: ronkkeli.com | Mail | Billing/Panel + Other notifications | Main Company Emails |
+    url: mail.google.com
+   
     
 
 
