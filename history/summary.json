@@ -10,11 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 469,
-    "timeDay": 469,
-    "timeWeek": 469,
-    "timeMonth": 469,
-    "timeYear": 469,
+    "time": 681,
+    "timeDay": 681,
+    "timeWeek": 681,
+    "timeMonth": 681,
+    "timeYear": 681,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Customer Portal / Website",
+    "url": "https://www.ronkkeli.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.ronkkeli.com.ico",
+    "slug": "customer-portal-website",
+    "status": "down",
+    "uptime": "13.77%",
+    "uptimeDay": "13.77%",
+    "uptimeWeek": "13.77%",
+    "uptimeMonth": "13.77%",
+    "uptimeYear": "13.77%",
+    "time": 87,
+    "timeDay": 87,
+    "timeWeek": 87,
+    "timeMonth": 87,
+    "timeYear": 87,
+    "dailyMinutesDown": {
+      "2024-01-26": 0
+    }
   }
 ]
