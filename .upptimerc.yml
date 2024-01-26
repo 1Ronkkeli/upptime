@@ -36,7 +36,7 @@ sites:
   - name: ronkkeli.net | Mail | Non Critical | Ticket Team Mails |
     url: webmail.ronkkeli.net
   - name: ronkkeli.com | Mail | Billing/Panel + Other notifications | Main Company Emails |
-    url: mail.google.com
+    url: https://mail.google.com/
    
     
 
