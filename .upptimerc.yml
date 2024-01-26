@@ -36,7 +36,9 @@ sites:
   - name: ronkkeli.net | Mail | Non Critical | Ticket Team Mails |
     url: https://webmail.ronkkeli.net
   - name: ronkkeli.com | Mail | Billing/Panel + Other notifications | Main Company Emails |
-    url: https://mail.google.com/
+    url: mail.google.com
+    port: 80
+    check: "tcp-ping"
    
     
 
