@@ -13,6 +13,31 @@ sites:
     url: https://www.ronkkeli.com
   - name: Web-1 | SPANEL
     url: https://cloud-4b162c.managed-vps.net/hostpanel/login
+  - name: Game1
+    url: game1.ronkkeli.net
+    port: 8080
+    check: "tcp-ping"
+  - name: Game2
+    url: game2.ronkkeli.net
+    port: 8080
+    check: "tcp-ping"
+  - name: Game3
+    url: game3.ronkkeli.net
+    port: 8080
+    check: "tcp-ping"
+  - name: Game3
+    url: game3.ronkkeli.net
+    port: 8080
+    check: "tcp-ping"
+  - name: Game4 | Beta non public
+    url: 135.181.58.27
+    port: 8080
+    check: "tcp-ping"
+  - name: Database Cloud
+    url: 51.75.244.172
+    port: 35631
+    check: "tcp-ping"
+    
 
 
 status-website:
