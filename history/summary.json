@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ronkkeli.com.ico",
     "slug": "www-ronkkeli-com",
     "status": "down",
-    "uptime": "0.18%",
-    "uptimeDay": "0.18%",
-    "uptimeWeek": "0.18%",
-    "uptimeMonth": "0.18%",
-    "uptimeYear": "0.18%",
-    "time": 65,
-    "timeDay": 65,
-    "timeWeek": 65,
-    "timeMonth": 65,
-    "timeYear": 65,
+    "uptime": "0.11%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "0.11%",
+    "uptimeMonth": "0.11%",
+    "uptimeYear": "0.11%",
+    "time": 71,
+    "timeDay": 71,
+    "timeWeek": 71,
+    "timeMonth": 71,
+    "timeYear": 71,
     "dailyMinutesDown": {
-      "2024-01-26": 7
+      "2024-01-26": 10
     }
   }
 ]
