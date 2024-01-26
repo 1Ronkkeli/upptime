@@ -34,8 +34,8 @@ sites:
     port: 8080
     check: "tcp-ping"
   - name: Database Cloud Infrastructure
-    url: 51.75.244.172
-    port: 35631
+    url: phpmyadmin-gra3.hosting.ovh.net
+    port: 80
     check: "tcp-ping"
     
 
