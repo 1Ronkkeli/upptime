@@ -6,7 +6,9 @@ sites:
   - name: Game-Panel
     url: https://panel.ronkkeli.net
   - name: Game-Panel | BETA
-    url: https://odyssey.panel.gg/
+    url: odyssey.panel.gg
+    port: 80
+    check: "tcp-ping"
   - name: Customer Portal / Website
     url: https://www.ronkkeli.com
   - name: Web-1 | SPANEL
