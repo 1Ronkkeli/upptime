@@ -130,9 +130,9 @@
     "url": "135.181.58.27",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "game4-beta-non-public",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -141,7 +141,9 @@
     "timeWeek": 134,
     "timeMonth": 134,
     "timeYear": 134,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-28": 0
+    }
   },
   {
     "name": "Database Cloud Infrastructure | panel.ronkkeli.net |",
