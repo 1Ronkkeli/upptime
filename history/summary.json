@@ -40,18 +40,20 @@
     "url": "https://www.ronkkeli.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.ronkkeli.com.ico",
     "slug": "ronkkeli-com-main-website-customer-billing-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 624,
-    "timeDay": 752,
-    "timeWeek": 602,
-    "timeMonth": 624,
-    "timeYear": 624,
-    "dailyMinutesDown": {}
+    "time": 707,
+    "timeDay": 1433,
+    "timeWeek": 791,
+    "timeMonth": 707,
+    "timeYear": 707,
+    "dailyMinutesDown": {
+      "2024-02-05": 0
+    }
   },
   {
     "name": "Web-1 | SPANEL | Main Webhosting |",
