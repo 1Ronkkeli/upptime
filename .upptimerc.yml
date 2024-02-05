@@ -50,7 +50,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.ronkkeli.net
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://ronkkeli.com/header-white.png
   name: Ronkkeli Hosting
   introTitle: "Ronkkeli Hosting"
   introMessage: Status Page For Ronkkeli Hosting | www.ronkkeli.com
