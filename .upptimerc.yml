@@ -51,9 +51,9 @@ status-website:
   cname: status.ronkkeli.net
   # baseUrl: /your-repo-name
   logoUrl: https://ronkkeli.com/header-white.png
-  name: Ronkkeli Hosting
-  introTitle: "Ronkkeli Hosting"
-  introMessage: Status Page For Ronkkeli Hosting | www.ronkkeli.com
+  name: www.ronkkeli.com
+  introTitle: "Service Status"
+  introMessage: Status for all of our Public / Non public Servers.
   navbar:
     - title: Status
       href: /
