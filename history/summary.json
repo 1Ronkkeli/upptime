@@ -40,19 +40,19 @@
     "url": "https://www.ronkkeli.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.ronkkeli.com.ico",
     "slug": "ronkkeli-com-main-website-customer-billing-portal",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "98.50%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
-    "time": 2159,
-    "timeDay": 5244,
-    "timeWeek": 3244,
-    "timeMonth": 2159,
-    "timeYear": 2159,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "98.12%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 2124,
+    "timeDay": 4804,
+    "timeWeek": 3113,
+    "timeMonth": 2124,
+    "timeYear": 2124,
     "dailyMinutesDown": {
-      "2024-02-05": 21
+      "2024-02-05": 27
     }
   },
   {
