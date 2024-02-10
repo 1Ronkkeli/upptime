@@ -4,9 +4,9 @@
     "url": "https://panel.ronkkeli.net",
     "icon": "https://icons.duckduckgo.com/ip3/panel.ronkkeli.net.ico",
     "slug": "game-panel-central-management-for-gamehosting",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 618,
     "timeMonth": 601,
     "timeYear": 601,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-10": 0
+    }
   },
   {
     "name": "Game-Panel | BETA | | Non Public |",
