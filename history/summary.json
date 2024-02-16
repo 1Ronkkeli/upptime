@@ -204,18 +204,20 @@
     "url": "https://docs.ronkkeli.net",
     "icon": "https://icons.duckduckgo.com/ip3/docs.ronkkeli.net.ico",
     "slug": "docs-ronkkeli-net-documentation-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 120,
-    "timeDay": 218,
-    "timeWeek": 127,
-    "timeMonth": 120,
-    "timeYear": 120,
-    "dailyMinutesDown": {}
+    "time": 117,
+    "timeDay": 136,
+    "timeWeek": 118,
+    "timeMonth": 117,
+    "timeYear": 117,
+    "dailyMinutesDown": {
+      "2024-02-16": 0
+    }
   },
   {
     "name": "Discord Tickets Bot",
