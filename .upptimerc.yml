@@ -5,8 +5,6 @@ repo: upptime # The name of this repository
 sites:
   - name: Game-Panel | Central Management For Gamehosting |
     url: https://panel.ronkkeli.net
-  - name: Game-Panel | BETA | | Non Public |
-    url: odyssey.panel.gg
     port: 80
     check: "tcp-ping"
   - name: ronkkeli.com | Main Website | Customer/Billing portal |
