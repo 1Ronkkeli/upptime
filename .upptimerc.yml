@@ -39,7 +39,6 @@ sites:
     url: mail.google.com
     port: 80
     check: "tcp-ping"
- 
   - name: Discord Tickets Bot
     url: 91.107.212.48
     port: 80
