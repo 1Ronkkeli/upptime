@@ -6,7 +6,7 @@
     "slug": "game-panel-central-management-for-gamehosting",
     "status": "up",
     "uptime": "87.86%",
-    "uptimeDay": "97.79%",
+    "uptimeDay": "98.09%",
     "uptimeWeek": "56.34%",
     "uptimeMonth": "87.86%",
     "uptimeYear": "87.86%",
@@ -121,19 +121,19 @@
     "url": "135.181.58.27",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "game4-beta-non-public",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 134,
-    "timeDay": 141,
-    "timeWeek": 143,
+    "timeDay": 132,
+    "timeWeek": 140,
     "timeMonth": 134,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2024-02-20": 0
+      "2024-02-20": 4
     }
   },
   {
