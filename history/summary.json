@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "game-panel-central-management-for-gamehosting",
     "status": "up",
-    "uptime": "87.63%",
-    "uptimeDay": "50.03%",
+    "uptime": "87.86%",
+    "uptimeDay": "97.79%",
     "uptimeWeek": "56.34%",
-    "uptimeMonth": "87.63%",
-    "uptimeYear": "87.63%",
+    "uptimeMonth": "87.86%",
+    "uptimeYear": "87.86%",
     "time": 574,
     "timeDay": 6,
     "timeWeek": 425,
@@ -121,9 +121,9 @@
     "url": "135.181.58.27",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "game4-beta-non-public",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -132,7 +132,9 @@
     "timeWeek": 143,
     "timeMonth": 134,
     "timeYear": 134,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-20": 0
+    }
   },
   {
     "name": "Database Cloud Infrastructure | panel.ronkkeli.net |",
