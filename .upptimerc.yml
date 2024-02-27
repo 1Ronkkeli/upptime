@@ -23,10 +23,6 @@ sites:
     url: game3.ronkkeli.net
     port: 8080
     check: "tcp-ping"
-  - name: Game4 | Beta non public |
-    url: 135.181.58.27
-    port: 8080
-    check: "tcp-ping"
   - name: Database Cloud Infrastructure | panel.ronkkeli.net |
     url: phpmyadmin-gra3.hosting.ovh.net
     port: 80
