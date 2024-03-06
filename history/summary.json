@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "game-panel-central-management-for-gamehosting",
     "status": "up",
-    "uptime": "92.35%",
+    "uptime": "92.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "89.95%",
-    "uptimeYear": "92.35%",
+    "uptimeYear": "92.41%",
     "time": 399,
     "timeDay": 2,
     "timeWeek": 3,
@@ -27,9 +27,9 @@
     "url": "https://www.ronkkeli.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.ronkkeli.com.ico",
     "slug": "ronkkeli-com-main-website-customer-billing-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -39,6 +39,7 @@
     "timeMonth": 988,
     "timeYear": 1440,
     "dailyMinutesDown": {
+      "2024-03-06": 0,
       "2024-02-05": 21
     }
   },
