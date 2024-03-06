@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "game-panel-central-management-for-gamehosting",
     "status": "up",
-    "uptime": "92.30%",
+    "uptime": "92.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "89.95%",
-    "uptimeYear": "92.30%",
+    "uptimeYear": "92.35%",
     "time": 399,
     "timeDay": 2,
     "timeWeek": 3,
@@ -65,9 +65,9 @@
     "url": "game1.ronkkeli.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "game1-minecraft-other-games",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -76,7 +76,9 @@
     "timeWeek": 107,
     "timeMonth": 113,
     "timeYear": 110,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-06": 0
+    }
   },
   {
     "name": "Game2 | FiveM |",
