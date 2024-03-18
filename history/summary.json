@@ -8,7 +8,7 @@
     "uptime": "94.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.44%",
+    "uptimeMonth": "96.50%",
     "uptimeYear": "94.14%",
     "time": 330,
     "timeDay": 5,
@@ -107,19 +107,19 @@
     "url": "game3.ronkkeli.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "game3-five-m",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.31%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.97%",
     "time": 115,
-    "timeDay": 92,
-    "timeWeek": 121,
+    "timeDay": 101,
+    "timeWeek": 119,
     "timeMonth": 115,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2024-03-18": 0
+      "2024-03-18": 24
     }
   },
   {
