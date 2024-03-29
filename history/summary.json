@@ -51,19 +51,19 @@
     "url": "https://cloud-4b162c.managed-vps.net/hostpanel/login",
     "icon": "https://icons.duckduckgo.com/ip3/cloud-4b162c.managed-vps.net.ico",
     "slug": "web-1-spanel-main-webhosting",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 720,
-    "timeDay": 1445,
-    "timeWeek": 941,
-    "timeMonth": 759,
-    "timeYear": 720,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 726,
+    "timeDay": 1347,
+    "timeWeek": 962,
+    "timeMonth": 771,
+    "timeYear": 726,
     "dailyMinutesDown": {
-      "2024-03-29": 0
+      "2024-03-29": 15
     }
   },
   {
